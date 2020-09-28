@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nlp.com" resolutions="1x" timestamp="1601308097373">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nlp.com" resolutions="1x" timestamp="1601308671641">
   <folder name="images">
     <file name="pexels-k-zoltan-544554-02.jpg" crc="3917514947" ref="index:contact-us">
       <caption webpage="index" alt=""/>
@@ -7,9 +7,9 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="279173372"/>
-    <file name="master_a-master.css" crc="4163233869" ref="index:contact-us"/>
-    <file name="index.css" crc="4163771346" ref="index"/>
-    <file name="contact-us.css" crc="4078029331" ref="contact-us"/>
+    <file name="master_a-master.css" crc="483808136" ref="index:contact-us"/>
+    <file name="index.css" crc="3932527385" ref="index"/>
+    <file name="contact-us.css" crc="17128565" ref="contact-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-us"/>
@@ -20,6 +20,6 @@
     <file name="require.js" crc="7928878" ref="index:contact-us"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:contact-us"/>
   </folder>
-  <file name="index.html" crc="3972972665" seo="true" mt="1601308069209" redirect="true"/>
-  <file name="contact-us.html" crc="75892281" seo="true" mt="1601308069209" redirect="true"/>
+  <file name="index.html" crc="4071569857" seo="true" mt="1601308661455" redirect="true"/>
+  <file name="contact-us.html" crc="4149631960" seo="true" mt="1601308661455" redirect="true"/>
 </manifest>
